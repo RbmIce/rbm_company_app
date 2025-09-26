@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "20540767204",
+    "firebase_url": "https://rbmice-472bb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rbmice-472bb",
+    "storage_bucket": "rbmice-472bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20540767204:android:25eaf9c7ec7793be6c65f1",
+        "android_client_info": {
+          "package_name": "com.example.rbm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8jKq3dWEYWBaiN7RahoK06qSDn7wpTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20540767204:android:66e4bd9233656fae6c65f1",
+        "android_client_info": {
+          "package_name": "com.example.rbmice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8jKq3dWEYWBaiN7RahoK06qSDn7wpTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
